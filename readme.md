@@ -126,3 +126,56 @@
 
 [Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/21-Geolocation/)
 
+## Follow Along Links
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/22-Follow-Along-Link-Highlighter.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/22-Follow-Along-Link-Highlighter/)
+
+## Speech Synthesis
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/23-Speech-Synthesis.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/23-Speech-Synthesis/)
+
+## Sticky Nav
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/24-Sticky-Nav.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/24-Sticky-Nav/)
+
+## Event Capture, Propagation, Bubbling and Once
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/25-Event-Capture-Propagation-Bubbling-and-Once.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/25-Event-Capture-Propagation-Bubbling-and-Once/)
+
+## Stripe Follow Along Dropdown
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/26-Stripe-Follow-Along-Nav.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/26-Stripe-Follow-Along-Nav/)
+
+## Click and Drag to Scroll
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/27-Click-and-Drag.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/27-Click-and-Drag/)
+
+## Video Speed Controller UI
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/28-Video-Speed-Controller.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/28-Video-Speed-Controller/)
+
+## Countdown Clock
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/29-Countdown-Timer.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/29-Countdown-Timer/)
+
+## Whack A Mole Game
+
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/30-Whack-A-Mole.jpg)
+
+[Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/30-Whack-A-Mole/)
