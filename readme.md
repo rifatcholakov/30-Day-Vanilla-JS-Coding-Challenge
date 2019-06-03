@@ -1,4 +1,10 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+![](https://rifatcholakov.com/wp-content/uploads/2019/06/js30.jpg?style=centerme)
+
+**Build 30 amazing projects in 30 days - No Frameworks, No Compilers, No Libraries, No Boilerplate**
+
+Learn JavaScript by coding 👌🙂
+
+# The 3️⃣0️⃣ Projects 🔽
 
 ## JavaScript Drum Kit
 
@@ -179,3 +185,7 @@
 ![](https://rifatcholakov.com/wp-content/uploads/2019/06/30-Whack-A-Mole.jpg)
 
 [Preview](https://rifatcholakov.com/my-projects/30-Day-Vanilla-JS-Coding-Challenge/30-Whack-A-Mole/)
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details
