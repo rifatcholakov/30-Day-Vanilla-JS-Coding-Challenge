@@ -4,7 +4,7 @@
 
 Learn JavaScript by coding 👌🙂
 
-# The 3️⃣0️⃣ Projects 🔽
+# The 30 Projects 🔽
 
 ## JavaScript Drum Kit
 
